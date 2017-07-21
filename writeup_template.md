@@ -15,19 +15,6 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./test_images/solidWhiteCurve.jpg "Solid White Curve Before"
-[image3]: ./test_images/solidWhiteRight.jpg "Solid White Right Before"
-[image4]: ./test_images/solidYellowCurve.jpg "Solid Yellow Curve Before"
-[image5]: ./test_images/solidYellowCurve2.jpg "Solid Yellow Curve2 Before"
-[image6]: ./test_images/solidYellowLeft.jpg "Solid Yellow Left Before"
-[image7]: ./test_images/whiteCarLaneSwitch.jpg "White Car Lane Switch Before"
-[image8]: ./test_images_output/solidWhiteCurve.jpg "Solid White Curve After"
-[image9]: ./test_images_output/solidWhiteRight.jpg "Solid White Right After"
-[image10]: ./test_images_output/solidYellowCurve.jpg "Solid Yellow Curve After"
-[image11]: ./test_images_output/solidYellowCurve2.jpg "Solid Yellow Curve2 After"
-[image12]: ./test_images_output/solidYellowLeft.jpg "Solid Yellow Left After"
-[image13]: ./test_images_output/whiteCarLaneSwitch.jpg "White Car Lane Switch After"
 ---
 
 ### Reflection
@@ -44,25 +31,23 @@ These points where then extrapolated from the top of the area of interest to the
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1]
+![Before](/test_images/solidWhiteCurve.jpg)
+![After](/test_images_output/solidWhiteCurve.jpg)
 
-![alt text][image2]
-![alt text][image8]
+![Before](/test_images/solidWhiteRight.jpg)
+![After](/test_images_output/solidWhiteRight.jpg)
 
-![alt text][image3]
-![alt text][image9]
+![Before](/test_images/solidYellowCurve.jpg)
+![After](/test_images_output/solidYellowCurve.jpg)
 
-![alt text][image4]
-![alt text][image10]
+![Before](/test_images/solidYellowCurve2.jpg)
+![After](/test_images_output/solidYellowCurve2.jpg)
 
-![alt text][image5]
-![alt text][image11]
+![Before](/test_images/solidYellowLeft.jpg)
+![After](/test_images_output/solidYellowLeft.jpg)
 
-![alt text][image6]
-![alt text][image12]
-
-![alt text][image7]
-![alt text][image13]
+![Before](/test_images/whiteCarLaneSwitch.jpg)
+![After](/test_images_output/whiteCarLaneSwitch.jpg)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
